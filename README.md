@@ -1,1 +1,3 @@
-# brevo-disparer-v1
+PORT=5000
+BREVO_API_KEY=
+BREVO_LIST_ID=
