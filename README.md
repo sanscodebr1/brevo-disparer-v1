@@ -1,3 +1,7 @@
-PORT=5000
-BREVO_API_KEY=
-BREVO_LIST_ID=
+.env example:
+
+
+PORT=5000  <br>
+BREVO_API_KEY= <br>
+BREVO_LIST_ID= <br>
+
